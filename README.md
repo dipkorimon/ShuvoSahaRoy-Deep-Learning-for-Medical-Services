@@ -88,7 +88,7 @@ Another point is that a very low number of samples are used in this experiment. 
 ## Developer
 Backend & Experiment: Shuvo Saha Roy
 
-Frontend : Dipkor Emon
+Frontend : Dip Kor Imon
 
 ## License
 
