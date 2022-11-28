@@ -32,7 +32,7 @@ This is binary classification. This model can detect Colon Benign and Colon Aden
 
 # <strong>Deployment</strong>
 
-You check it here. (project is still going on.)
+<a href="http://wprince00.pythonanywhere.com/">Medical Support</a>
 
 # <strong>Datasets</strong>
 
